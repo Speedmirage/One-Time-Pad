@@ -1,4 +1,5 @@
 ## What does this program do?
+
 This program gives one the ability to create a perfectly secure Crypto system. Utilizing One-Time-Pad the user has the ability to either encypt or decrypt a message using the aformentioned protocol. If the user chooses to encrypt a message the program will first take an input (the message) from the user and generate a unique key. It will then convert the key and message to binary and perform the XOR sequence. Afterwards the program will print out the "Encrypted" binary cipher. Else if the user is seeaking to decrypt a message, the user will have to enter the key and each binarycipher (in groups of 8) one by one. Then, the program will conduct the XOR sequence on the binarykey and cipher, while printing the decoded binary. Then the user **MUST**, input 0b plus the previously printed value. 
 ## Known Limitations
 
