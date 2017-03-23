@@ -8,6 +8,12 @@ This program gives one the ability to create a perfectly secure Crypto system. U
 
 ## How to run it?
 
-1. First, run the [One-Time-Pad](https://repl.it/Gb6Q/0)
+1. First, run the [One-Time-Pad](https://repl.it/Gb6Q/0) program
+2. Then just follow the instructions within the program
+3. Enjoy and have fun :)
+
+**Note: While decrypting you must remove all the whitespaces of the encrypted binary code and sepate them into blocks of 8**
+
+# [Return Home](http://speedmirage.me)
 
 
