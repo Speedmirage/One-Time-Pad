@@ -7,7 +7,7 @@ This program gives one the ability to create a *Perfectly Secure Crypto System*.
 - When trying to decrypt the message, the user must input the binary cipher one by one
 - While trying to decrypt, when the program prints the binary message. The user must input 0b + the given binary message to print out the corresponding character.
 
-## How to run it?
+## How to Run it?
 
 1. First, run the [One-Time-Pad](https://repl.it/Gb6Q/0) program
 2. Then just follow the instructions within the program
